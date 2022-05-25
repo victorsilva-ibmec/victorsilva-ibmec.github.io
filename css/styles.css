@@ -61,7 +61,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --bs-body-bg: #e6dfd2;
 }
 
 *,
@@ -334,7 +334,7 @@ label {
 }
 
 button {
-  border-radius: 0;
+  border-radius: 1;
 }
 
 button:focus:not(:focus-visible) {
